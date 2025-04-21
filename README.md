@@ -30,19 +30,19 @@ npm run dev
 ##  API Endpoints
 
 ### Create Tasks
-http://localhost:4000/api/v1/createTask
+ ## http://localhost:4000/api/v1/createTask
 
 ### Get ALL Tasks
-http://localhost:4000/api/v1/getTasks
+ ## http://localhost:4000/api/v1/getTasks
 
 ### Get Tasks By Particular id
-http://localhost:4000/api/v1/getTaskById
+## http://localhost:4000/api/v1/getTaskById
 
 ### Delete Tasks
-http://localhost:4000/api/v1/deleteTask 
+## http://localhost:4000/api/v1/deleteTask 
 
 ### Update Tasks
-http://localhost:4000/api/v1/updateTask
+ ## http://localhost:4000/api/v1/updateTask
 
 
 
